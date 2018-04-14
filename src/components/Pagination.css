@@ -1,0 +1,19 @@
+#page-numbers{
+	cursor: pointer; 
+	display: flex;
+	list-style-type: none;
+	font-weight: 600;
+	font-size: 30px;
+	justify-content: space-around;
+
+}
+
+#page-numbers .btn{
+	
+}
+
+.active {
+  background-color: #aaa;
+  color: red;
+  cursor: default;
+}
